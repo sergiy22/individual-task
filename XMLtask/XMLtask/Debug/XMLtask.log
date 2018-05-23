@@ -1,0 +1,4 @@
+﻿  XMLtask.cpp
+d:\university\програмування\2 семестр\xmltask\xmltask\xmltask.cpp(32): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+d:\university\програмування\2 семестр\xmltask\xmltask\xmltask.cpp(44): warning C4101: ch: неиспользованная локальная переменная
+  XMLtask.vcxproj -> D:\University\Програмування\2 семестр\XMLtask\Debug\XMLtask.exe
